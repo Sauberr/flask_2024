@@ -1,0 +1,6 @@
+first_name,last_name,email,password,birthday
+Тарас,Вернигора,arsen13@example.org,b'$2b$12$2fAzaLk7HzhSuP8Wh1ULfev7hh8qPOeAASqESu4z6SiINdZJR.DXy',1981-10-16
+Семен,Ляшко,riaboshapkaoleh@example.com,b'$2b$12$2fAzaLk7HzhSuP8Wh1ULfev7hh8qPOeAASqESu4z6SiINdZJR.DXy',2004-03-28
+Ліза,Безбородьки,sirchenkoopanas@example.net,b'$2b$12$2fAzaLk7HzhSuP8Wh1ULfev7hh8qPOeAASqESu4z6SiINdZJR.DXy',1919-05-13
+Анастасія,Левченко,bairakillia@example.org,b'$2b$12$2fAzaLk7HzhSuP8Wh1ULfev7hh8qPOeAASqESu4z6SiINdZJR.DXy',1977-02-15
+Аркадій,Шеремет,priska54@example.net,b'$2b$12$2fAzaLk7HzhSuP8Wh1ULfev7hh8qPOeAASqESu4z6SiINdZJR.DXy',1912-11-02
